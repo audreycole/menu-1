@@ -1,0 +1,31 @@
+body {
+	margin: 0px auto;
+	font: 13px/18px Georgia, serif;
+	text-align: center;
+	color: #000;
+	background: #f8f8ed url(http://crowncandykitchen.net/wp-content/themes/crowncandy/images/top-img-2.jpg) center top repeat-x
+}
+
+
+.menu-items{
+	text-align: center;
+	list-style-type: none;
+	font: 13px/18px Georgia, serif;
+}
+
+.centered-text {
+	margin-left: 200px;
+}
+
+.about-Us-Text{
+	text-align: left;
+	margin-right: 600px;
+
+}
+
+.ccb {
+	float:right;
+	margin-right: 200px;
+}
+
+/*Thank you to Crown Candy Kitchen for the images */
