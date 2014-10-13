@@ -27,6 +27,10 @@ body {
 	margin-right: 200px;
 }
 
+.map-location-div{
+	margin-right: 150px;
+}
+
 .map-header {
 	position: relative;
 	right: 175px;
