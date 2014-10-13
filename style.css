@@ -6,8 +6,7 @@ body {
 	background: #f8f8ed url(http://crowncandykitchen.net/wp-content/themes/crowncandy/images/top-img-2.jpg) center top repeat-x
 }
 
-
-.menu-items{
+.menu-items {
 	text-align: center;
 	list-style-type: none;
 	font: 13px/18px Georgia, serif;
@@ -17,7 +16,7 @@ body {
 	margin-left: 200px;
 }
 
-.about-Us-Text{
+.about-Us-Text {
 	text-align: left;
 	margin-right: 600px;
 
@@ -27,5 +26,62 @@ body {
 	float:right;
 	margin-right: 200px;
 }
+
+.map-header {
+	position: relative;
+	right: 175px;
+	font: 15px/20px Georgia, serif;
+	text-decoration: underline;
+}
+
+.address {
+	position: relative;
+	right: 175px;
+}
+
+.img1 {
+	display: inline-block;
+	width: 50px;
+	margin-right:50px;
+}
+
+.img2 {
+	display: inline-block;
+	width: 50px;
+	margin-left: 50px;
+
+}
+.map-text {
+	display: inline-block;
+	/*right: 175px; */
+	font: 13px/18px Georgia, serif;
+}
+
+.img-responsive {
+	position: relative;
+	left: 200px;
+	padding: 0px;
+	border: 10px solid #FF5050;
+}
+
+.hours-imgs {
+	position: relative;
+}
+
+.hours-img1 {
+	display: inline-block;
+	width: 50px;
+	margin-right: 50px
+}
+
+.alignnone {
+	display: inline-block;
+}
+.hours-img2 {
+	display: inline-block;
+	width: 50px;
+	margin-left: 50px
+}
+
 
 /*Thank you to Crown Candy Kitchen for the images */
